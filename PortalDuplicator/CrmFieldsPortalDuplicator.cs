@@ -38,7 +38,7 @@ namespace PortalDuplicator
 
         #region IHelpPlugin
 
-        string IHelpPlugin.HelpUrl => "https://github.com/mkalinov/AttachmentsReversibleCopy";
+        string IHelpPlugin.HelpUrl => "https://github.com/mkalinov/Portals365_PortalDuplicator";
 
         #endregion IHelpPlugin
 
