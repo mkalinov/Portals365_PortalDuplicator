@@ -148,6 +148,7 @@
   <ItemGroup />
   <ItemGroup>
     <Content Include="Blob\ErrorImage.JPG" />
+    <Content Include="Blob\Logo_80x80.png" />
     <Content Include="Blob\Portals.JPG" />
     <Content Include="DataUtilitySchemas\Customer Portal- FullSchema_PrimaryKeys_PluginsOff_No_Session_ExtIdentiy_Invitation_UrlHistory_InvitRdemption.xml" />
     <Content Include="DataUtilitySchemas\Partner Portal- FullSchema_PrimaryKeys_PluginsOff_No_Session_ExtIdentiy_Invitation_UrlHistory_InvitRdemption.xml" />
