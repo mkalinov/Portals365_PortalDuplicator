@@ -1,6 +1,8 @@
 # Portal Duplicator
 Douplicates a Portal365 by createing exact copy of Configuration Migration tool data file. References are respected.
 
+This tool designed for XrmToolBox
+
    The duplication works based on [Configuration Migration tool (free, part of Xrm SDK)](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/admin/manage-configuration-data) 
 Couple of ready [schemas](https://github.com/mkalinov/Portals365_PortalDuplicator/tree/master/PortalDuplicator/DataUtilitySchemas)
 are included in the solution to give an idea “how to”.
