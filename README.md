@@ -13,7 +13,8 @@ What’s the point?
 -	Portal backup
 -	Deployment of multiple versions of the same portal with option to switch between them – saves money by  reducing the number of environments and portals 
 -	No AD or B2C sync required – duplicated portal uses same contact 
-Tested for crm 8.2- 9.1. Portals 8.4 – 9.x.
+
+Tested for Crm 8.2.x-9.1.x, Customer and Partner Portals 8.4–9.0.12.11
 
 
 ## Related links:
